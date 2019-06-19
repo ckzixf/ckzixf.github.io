@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+== Ke Chen - Ph.D Candidate
+
+You can also find my publications from [https://scholar.google.com.hk/citations?user=cUh3dO8AAAAJ&hl=en Google Scholar].
+
+== Journal Papers
+. Chen K, Zhou F, Yin L, et al. A hybrid particle swarm optimizer with sine cosine acceleration coefficients. Information Sciences, 2018, 422: 218-241.
+. Chen K, Zhou F, Liu A. Chaotic dynamic weight particle swarm optimization for numerical function optimization. Knowledge-Based Systems, 2018, 139: 23-40.
+. Chen K, Zhou F, Wang Y, et al. An ameliorated particle swarm optimizer for solving numerical optimization problems. Applied Soft Computing, 2018, 73: 482-496.
+. Chen K, Zhou F Y, Yuan X F. Hybrid Particle Swarm Optimization with Spiral-Shaped Mechanism for Feature Selection. Expert Systems with Applications, 2019, 128: 140-156.
+. Niu P, Chen K*, Ma Y, et al. Model turbine heat rate by fast learning network with tuning based on ameliorated krill herd algorithm. Knowledge-Based Systems, 2017, 118: 80-92. (Corresponding Author)
+. Niu P, Chen K*, Liu A, et al. Study on the Optimal Initial Pressure of a Steam Turbine Unit Based on Krill Herd Algorithm. Journal of Chinese Society of Power Engineering, 2017, 37(8):615-621. (Corresponding Author, In Chinese)
+. Niu P, Chen K, Ma Y, et al. Modelling of Turbine Heat Rate Based on Krill Herd Algorithm and Its Application. Journal of Chinese Society of Power Engineering, 2016, 36(10):781-787. (In Chinese)
+. Ma Y, Niu P, Chen K, et al. Optimize NOx emissions model of boiler based on chaos group teaching-learning-based optimization algorithm. Acta Metrologica Sinica, 2017, 39(1): 125-129. (In Chinese)
+. Niu P, Wang Q, Ma Y, Zhao Q, Chen K, Zhao Z. Study on NOx Emission from Boiler Based on Quantum Adaptation Bird Swarm Algorithm[J]. Acta Metrologica Sinica, 2017, 38(6): 770-775. (In Chinese)
+. Niu P, Zhao Z, Ma Y, Chen K, Wang Q, Zhao Q. Model improvement for Boiler NOx emission based on wind driven optimization algorithm. Journal of Chinese Society of Power Engineering, 2016, 36(9): 732-738. (In Chinese)
+. Li X, Niu P, Ma Y, Chen K, Wang Q. NOx emission reduction of a boiler based on ameliorated chicken swarm optimization. Journal of Chinese Society of Power Engineering, 2017, 37(4): 293-300. (In Chinese)
+== Conference Papers
+. Chen K, Zhou F, Xue B. Particle Swarm Optimization for Feature Selection with Adaptive Mechanism and New Updating Strategy. Australasian Joint Conference on Artificial Intelligence. Springer, Cham, 2018: 419-431.

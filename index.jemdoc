@@ -1,36 +1,32 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Ke Chen
+==Ke Chen - Ph.D Candidate
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
-PhD,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)]\n
-Osquldas v\&aumlg 10 \n
-100 44 Stockholm, Sweden \n 
-Phone: \+46 8 790 7000 \n
-Fax: \+46 8 790 7329\n
-E-post: /euhanna/ \[@\] kth \[DOT\] se
+{}{img_left}{bio.jpg}{alt text}{120}{160}
+*Ke Chen* \n
+Ph.D Candidate in Pattern Recognition and Intelligent System\n [http://control.sdu.edu.cn/ School of Control Science and Engineering] \n[http://www.sdu.edu.cn/ Shandong University (SDU)]\n
+Email: chenke_zixf@163.com \n
+Phone: (+64) 021 088 602 05 \n 
+Address: RM CO325, School of Engineering and Computer Science, Victoria University of Wellington, PO Box 600, Wellington, 6140, New Zealand
 ~~~
+
+- My [http://www.cirobot.org/nd.jsp?id=520+\#+_np=131_549/  homepage] at Shandong University
+
+- Am a member of [http://ecs.victoria.ac.nz/Groups/ECRG/WebHome/ Evolutionary Computation Research Group (ECRG)] at Victoria University of Wellington
+
+- Am a member of [http://homepages.ecs.vuw.ac.nz/Users/BingXue/FASLIP/ Feature Analysis, Selection, and Learning (FASLIP)] at Victoria University of Wellington
+
+== Research Interests
+My main research lies in Artificial Intelligence, Machine Learning Big Data and Computer Vision
+- Evolutionary Aglorithm, particularly Particle Swarm Optimization  
+- Feature Selection, Feature Construction and Dimension Reduction
+- Image Analysis, Image Classification
+- Evolutionary deep learning
 
 == About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+Ke Chen is a Ph.D Candidate in the School of Control Science and Engineering at Shandong University, China. Prior to that, he received the B.S. and M.Sc degrees in automation and control engineering from Weifang University and Yanshan University in 2014 and 2017, respectively. From November 2017 to November 2020, he studied in the  School of Engineering and Computer Science at Victoria University of Wellington in New Zealand, as a jointly Ph.D student financed by China Scholar Council. He servers as the reviewers of over 10 avenues.
+ 
 
-== Research
-My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
-
-[research.html Find out more].
-=== Recent Publications 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
-
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+== Google Scholar & ResearchGate
+Click [https://scholar.google.com.hk/citations?user=cUh3dO8AAAAJ&hl=en here] to visit my Google Scholar profile. \n
+Click [https://www.researchgate.net/profile/Ke_Chen100/research here] to visit my ResearchGate profile.
