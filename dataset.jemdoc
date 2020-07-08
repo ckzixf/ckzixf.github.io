@@ -5,12 +5,21 @@ Datasets in MATLAB MAT format
 
 ~~~
 {}{table}{TABLENAME}
-Datasets  | #Feature | #Instance |  #Class ||
-[Leukemia_1.mat Leukemia1]  | 5327 | 72 |  3 ||
-[Leukemia_2.mat Leukemia2]  | 7129 | 72 |  4 
+Datasets  | Number of features | Number of instances | Number of classes ||
+[Leukemia_1.mat Leukemia 1]  | 5327 | 72 |  3 ||
+[DLBCL.mat DLBCL]  | 5469 | 77 |  2 ||
+[9_Tumor.mat 9Tumor]  | 5726 | 60 |  9 ||
+[Brain_Tumor_1.mat Brain Tumor 1]  | 5920 | 90 |  5 ||
+[Prostate_Tumor_1.mat Prostate Tumor 1]  | 5966 | 102 |  2 ||
+[Leukemia_2.mat Leukemia 2]  | 7129 | 72 |  4 ||
+[Brain_Tumor_2.mat Brain Tumor 2]  | 10367 | 50 |  4 ||
+[Leukemia_3.mat Leukemia 3]  | 11225 | 72 |  3 ||
+[11_Tumor.mat 11Tumor]  | 12533 | 174 |  11 ||
+[Lung_Cancer.mat Lung_Cancer]  | 12600 | 203 |  5 
 ~~~
 
-Please kindly cite the paper "Ke Chen, Y. S. Ong and M. Dash, “Markov Blanket-Embedded Genetic Algorithm for Gene Selection”, Pattern Recognition, Vol. 49, No. 11, 3236-3248, 2007." if you use the datasets.
+
+Please kindly cite the paper "Ke Chen, Bing Xue, Mengjie Zhang and Fengyu Zhou, “An Evolutionary Multitasking-Based Feature Selection for High-Dimensional classification”, 2020." if you use the datasets.
 
 
 
