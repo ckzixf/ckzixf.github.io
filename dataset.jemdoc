@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{dataset.html}, nofooter  
+== Ke Chen - Ph.D Candidate
+
+Datasets in MATLAB MAT format
+
+~~~
+{}{table}{TABLENAME}
+Datasets  | #Feature | #Instance |  #Class ||
+[Leukemia_1.mat Leukemia1]  | 5327 | 72 |  3 ||
+[Leukemia_2.mat Leukemia2]  | 7129 | 72 |  4 
+~~~
+
+Please kindly cite the paper "Ke Chen, Y. S. Ong and M. Dash, “Markov Blanket-Embedded Genetic Algorithm for Gene Selection”, Pattern Recognition, Vol. 49, No. 11, 3236-3248, 2007." if you use the datasets.
+
+
+
+
